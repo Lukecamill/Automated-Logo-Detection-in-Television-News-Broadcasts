@@ -1,0 +1,26 @@
+# Python / notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.DS_Store
+# Local data and training artifacts
+/data/raw/
+/data/processed/
+/data/exports/
+/datasets/
+/runs/
+/checkpoints/
+/weights/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.h5
+*.hdf5
+*.tfevents.*
+*.zip

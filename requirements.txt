@@ -1,0 +1,9 @@
+# Shared notebook/EDA tools. Each detector records its own tested dependencies.
+jupyterlab
+ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+Pillow
+PyYAML
