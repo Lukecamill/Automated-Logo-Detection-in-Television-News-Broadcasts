@@ -1,0 +1,1 @@
+# Automated-Logo-Detection-in-Television-News-Broadcasts
